@@ -116,6 +116,7 @@ public class DireccionesActivity extends BaseDrawerActivity implements IActivity
             destinoSpinner.setSelection(0);
             rutaDestino=(Ruta)destinoSpinner.getSelectedItem();
         }
+        //Se inicializan los los componentes principales
         iniciarComponentes();
 
         //origenSpinner.setOnItemSelectedListener(this);
