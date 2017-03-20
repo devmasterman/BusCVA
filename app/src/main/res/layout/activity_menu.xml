@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="net.rutas.morelos.app.activity.MenuActivity">
+
+    <LinearLayout
+        android:id="@+id/lyLogo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/imageLogo"
+            android:layout_width="25dp"
+            android:layout_height="35dp"
+            android:layout_margin="5dp"
+            android:layout_weight="0.22"
+            android:src="@drawable/ic_audiotrack" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/frmMenuPrincipal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lyLogo"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imgMarginTop"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:layout_alignRight="@+id/frmMenuPrincipal"
+        android:layout_below="@+id/frmMenuPrincipal"
+        android:layout_margin="5dp"
+        android:layout_marginTop="22dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_audiotrack" />
+
+    <ImageView
+        android:id="@+id/imageTxtMenuPrincipal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignRight="@+id/frmMenuPrincipal"
+        android:layout_below="@+id/frmMenuPrincipal"
+        android:layout_margin="5dp"
+        android:layout_marginTop="22dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_audiotrack_light" />
+
+    <LinearLayout
+        android:id="@+id/lyListaMenuPrincipal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageTxtMenuPrincipal"
+        android:orientation="horizontal" >
+
+        <ListView
+            android:id="@+id/listaItemsMenu"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lyFoot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lyListaMenuPrincipal"
+        android:orientation="horizontal" >
+
+    </LinearLayout>
+
+</RelativeLayout>
+
+

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">TransporteMorelosMX</string>
+    <string name="title_activity_maps">TransporteMorelosMX</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="user_manual">Cuerna Bus es una App, para la busqueda y localización del transporte
+                               público en la ciudad de Cuernavaca, Morelos, esta app está dividida
+                               de la siguiente manera, debemos agregar mas texto para probar el scroll
+                               viewer, comensemos:
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla  . . . . . .  . . ..  FIN.
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                                bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla  . . . . . .  . . ..  FIN.
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               la, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+                               bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla , bla, bla ,
+    </string>
+</resources>
